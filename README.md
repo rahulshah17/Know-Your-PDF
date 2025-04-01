@@ -63,3 +63,6 @@ The evaluation script includes support for:
 - Token-level F1 Score
 - Cosine Similarity
 - Retrieval & generation latency tracking
+---
+## 🧑‍💻 About
+Built and fine-tuned by Rahul Hemal Shah, a CS grad student at UMass Amherst, Linkedin: [[Linkedin](https://www.linkedin.com/in/rahulshah1799/)]

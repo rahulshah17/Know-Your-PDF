@@ -1,4 +1,4 @@
-# 🧠 Know-Your-PDF
+# 🧠 Know-Your-PDF: RAG Pipeline + Deployed LLM
 [![Hugging Face Spaces](https://img.shields.io/badge/Live%20Demo-HuggingFace-blue)](https://rahulhshah-know-your-pdf.hf.space/)
 
 ## 📌 Overview

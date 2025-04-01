@@ -1,0 +1,9 @@
+torch
+transformers
+langchain
+faiss-cpu
+sentence-transformers
+pypdf2
+gradio
+langchain-community
+accelerate>=0.26.0
